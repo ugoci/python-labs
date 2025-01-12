@@ -1,2 +1,2 @@
-# python-labs
-Labs from coding nomads bootcamp
+# python-minis
+A range of code snippets for different tasks, some more playful than others.
